@@ -1,0 +1,1 @@
+... and so on for other scripts. This structure allows you to organize your project with separate modules for different aspects of your Blender animation. Each script contains functions related to its specific functionality, and the main file orchestrates the execution of these scripts.
